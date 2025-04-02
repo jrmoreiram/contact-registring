@@ -42,14 +42,14 @@ Em seguida, abra o arquivo `index.html` no seu navegador preferido.
 
 ```
 contact-registring/
-├── index.html          # Página principal da aplicação
+├── index.html              # Página principal da aplicação
 ├── assets/
 │   ├── css/
-│   │   └── estilo.css  # Estilos da aplicação
+│   │   └── estilo.css      # Estilos da aplicação
 │   ├── images/
 │   │   └── cover-page.jpg  # Imagem de capa
 │   └── js/
-│       └── scripts.js  # Lógica da aplicação
+│       └── scripts.js      # Lógica da aplicação
 ├── README.md
 └── LICENSE
 ```
