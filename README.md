@@ -41,7 +41,7 @@ Em seguida, abra o arquivo `index.html` no seu navegador preferido.
 ## 🧩 Estrutura do Projeto
 
 ```
-cadastro-contatos/
+contact-registring/
 ├── index.html          # Página principal da aplicação
 ├── assets/
 │   ├── css/
@@ -50,6 +50,8 @@ cadastro-contatos/
 │   │   └── cover-page.jpg  # Imagem de capa
 │   └── js/
 │       └── scripts.js  # Lógica da aplicação
+├── README.md
+└── LICENSE
 ```
 
 ## 🛠️ Tecnologias Utilizadas
